@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
