@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -33,8 +34,13 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0175-combine-two-tables) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
