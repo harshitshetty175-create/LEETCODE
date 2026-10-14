@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
