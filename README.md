@@ -4,11 +4,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -18,6 +20,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Math
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
