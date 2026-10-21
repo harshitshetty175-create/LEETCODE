@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Depth-First Search
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Math
@@ -73,4 +75,16 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
