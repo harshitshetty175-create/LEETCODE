@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
@@ -35,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -44,6 +46,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
 ## Database
