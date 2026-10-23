@@ -61,6 +61,7 @@
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
