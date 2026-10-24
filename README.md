@@ -95,4 +95,8 @@
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
