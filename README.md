@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
@@ -41,6 +42,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 ## Simulation
