@@ -44,6 +44,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0221-maximal-square](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0221-maximal-square) |
@@ -92,6 +94,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Binary Search Tree
 |  |
