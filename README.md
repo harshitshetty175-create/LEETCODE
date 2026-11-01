@@ -64,6 +64,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,4 +134,8 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0221-maximal-square) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
