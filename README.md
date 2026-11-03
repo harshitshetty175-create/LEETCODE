@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
@@ -82,6 +83,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
