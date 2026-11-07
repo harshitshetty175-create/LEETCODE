@@ -16,8 +16,6 @@ class Solution {
         prev.next = null;
         ListNode left = sortList(head);
         ListNode right = sortList(slow);
-
-        // Merge sorted halves
         return merge(left, right);
     }
 
