@@ -110,6 +110,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -117,10 +118,12 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -141,4 +145,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
