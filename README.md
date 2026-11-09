@@ -8,16 +8,19 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,6 +28,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0100-same-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0112-path-sum) |
 ## Math
 |  |
 | ------- |
