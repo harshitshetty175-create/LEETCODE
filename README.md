@@ -42,6 +42,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
