@@ -38,6 +38,7 @@
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## String
 |  |
@@ -54,6 +55,7 @@
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 ## Stack
 |  |
 | ------- |
