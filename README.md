@@ -81,6 +81,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0221-maximal-square](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0221-maximal-square) |
+| [1480-running-sum-of-1d-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -163,4 +164,8 @@
 | ------- |
 | [0018-4sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
