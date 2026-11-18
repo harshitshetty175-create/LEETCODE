@@ -36,6 +36,7 @@
 | [0029-divide-two-integers](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0258-add-digits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
@@ -104,6 +105,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0221-maximal-square](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0221-maximal-square) |
 ## Backtracking
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
