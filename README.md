@@ -78,6 +78,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0018-4sum](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/harshitshetty175-create/LEETCODE/tree/master/0344-reverse-string) |
